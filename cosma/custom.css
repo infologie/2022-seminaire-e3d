@@ -1,0 +1,52 @@
+text {
+	font-family: var(--mono);
+	text-transform: uppercase;
+}
+/* 
+body {
+	font-family: var(--mono);
+	font-size: 1.2rem;
+}
+
+h1.record-title,
+.record footer li .record-links-context {
+	font-family: var(--sans);
+}
+
+.record footer li .record-links-context {
+	font-size: 1.4rem;
+}
+
+button {
+	background-color: white;
+	border: 1px solid #e6e6e6;
+	border-bottom: 1px solid #bababa;
+	border-radius: 5px;
+	padding: 2px 7px;
+}
+
+.menu-tags-container,
+.menu-index-list {
+	max-height: 50vh;
+	overflow: scroll;
+	border-top: 1px solid var(--border-color);
+	border-bottom: 1px solid var(--border-color);
+}
+
+.menu-tags-container button {
+	font-size: 1.2rem;
+	font-family: var(--condensed);
+	margin: .4rem .2rem 0 .2rem;
+	padding: 0 0 0 5px;
+	color: black;
+}
+
+.record div.csl-entry {
+	font-size: 1.2rem;
+}
+
+.record main a.record-link {
+	text-decoration: none;
+	color: #aa0000;
+}
+ */

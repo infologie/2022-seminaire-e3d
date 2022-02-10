@@ -1,0 +1,35 @@
+files_origin: '<#chemin#>/2022-seminaire-e3d/fiches'
+export_target: '<#chemin#>/2022-seminaire-e3d/'
+history: false
+focus_max: 2
+record_types:
+  undefined: "#858585"
+  note: "#009e7e"
+  concept: "#555555"
+  personne: "#eca843"
+  œuvre: "#56b4e9"
+link_types:
+  undefined:
+    stroke: simple
+    color: '#e1e1e1'
+graph_background_color: '#ffffff'
+graph_highlight_color: '#e58080'
+graph_highlight_on_hover: true
+graph_text_size: 14
+graph_arrows: true
+attraction_force: 300
+attraction_distance_max: 300
+attraction_vertical: 0
+attraction_horizontal: 0
+views: {}
+title: 'Séminaire E3D 2022'
+author: 'Équipe E3D, laboratoire MICA'
+description: ''
+keywords: []
+link_symbol: '→'
+csl: '<#chemin#>/2022-seminaire-e3d/cosma/iso690-author-date-fr.csl'
+bibliography: '<#chemin#>/2022-seminaire-e3d/cosma/references.json'
+csl_locale: '<#chemin#>/2022-seminaire-e3d/cosma/locales.xml'
+css_custom: '<#chemin#>/2022-seminaire-e3d/cosma/custom.css'
+devtools: false
+lang: fr

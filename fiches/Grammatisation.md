@@ -1,0 +1,9 @@
+---
+title: Grammatisation
+id: 20220210154446
+type: concept
+---
+
+> « La grammatisation – expression qui prolonge et détourne un concept de Sylvain Auroux – désigne la transformation d’un continu temporel en un discret spatial : c’est un processus de description, de formalisation et de discrétisation des comportements humains (calculs, langages et gestes) qui permet leur reproductibilité ; c’est une abstraction de formes par l’extériorisation des flux dans les [[20220210154551]] “rétentions tertiaires” (exportées dans nos machines, nos appareils) » (source : [Ars Industrialis](https://arsindustrialis.org/grammatisation)).
+
+> « Le terme de grammatisation, chez Sylvain Auroux [@auroux1994], nomme une révolution aussi importante que la naissance de l’écriture qui la précède (l’alphabétisation ou le support écrit de l’oral). Cette révolution conduit à décrire et à outiller une langue sur la base des deux technologies qui sont encore aujourd’hui les piliers de notre savoir métalinguistique : la grammaire et le dictionnaire. Grammaires et dictionnaires ne sont pas de simples représentations des langues qui leur préexisteraient, mais des techniques qui modifient les espaces de communication. Pour Sylvain Auroux, scripturisation (écriture), grammatisation (science et technique du langage), automatisation (informatisation) sont les trois stades essentiels de la formalisation et de l’externalisation du langage humain. Pas plus donc qu’on ne peut séparer le langage de la technique (Leroi-Gourhan), on ne peut séparer la linguistique de la technologie (Auroux) » (source : [Ars Industrialis](https://arsindustrialis.org/grammatisation)).
