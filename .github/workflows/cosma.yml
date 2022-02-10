@@ -10,5 +10,13 @@ jobs:
       uses: mikeal/npx@master
       with:
         args: "@graphlab-fr/cosma c"
-    - name: Safety check
-      run: which cosma
+    - name: Safety check 1
+      run: cat cosma/config.yml
+    - name: Safety check 2
+      run: cat ~/.npm/_npx/a0b3e5f64d038c47/node_modules/@graphlab-fr/cosma/config.yml
+    - name: Replace default config
+      run: cp cosma/config.yml ~/.npm/_npx/a0b3e5f64d038c47/node_modules/@graphlab-fr/cosma/config.yml
+    - name: Generate cosmoscope
+      uses: mikeal/npx@master
+      with:
+        args: "@graphlab-fr/cosma m"
