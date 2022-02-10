@@ -9,6 +9,6 @@ jobs:
     - name: Install Cosma and generate config
       uses: mikeal/npx@master
       with:
-        args: @graphlab-fr/cosma
+        args: "@graphlab-fr/cosma"
     - name: Safety check
       run: which cosma
