@@ -11,4 +11,4 @@ jobs:
       with:
         args: "@graphlab-fr/cosma c"
     - name: Safety check 2
-      run: cd ~/.npm/_npx && ls
+      run: cd ~/.npm && ls
