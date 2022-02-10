@@ -7,12 +7,12 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
     - name: Install Cosma and generate config
-      uses: mikeal/npx@1.0.0
+      uses: mikeal/npx@master
       with:
         args: --yes @graphlab-fr/cosma c
     - name: Replace default config
       run: cp cosma/config.yml ~/.npm/_npx/a0b3e5f64d038c47/node_modules/@graphlab-fr/cosma/config.yml
     - name: Generate cosmoscope
-      uses: mikeal/npx@1.0.0
+      uses: mikeal/npx@master
       with:
         args: --yes @graphlab-fr/cosma m
